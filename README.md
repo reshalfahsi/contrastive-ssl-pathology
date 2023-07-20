@@ -40,11 +40,11 @@ Fine-tuned | 0.438 | 91.05% |
 
 The qualitative results of the model on the inference set are shown below.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/anchor-free-object-detection/blob/master/assets/baseline_qualitative.png" alt="baseline_qualitative" > <br /> The qualitative result of the baseline model. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/contrastive-ssl-pathology/blob/master/assets/baseline_qualitative.png" alt="baseline_qualitative" > <br /> The qualitative result of the baseline model. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/anchor-free-object-detection/blob/master/assets/ssl_qualitative.png" alt="ssl_qualitative" > <br /> he qualitative result of the SSL model. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/contrastive-ssl-pathology/blob/master/assets/ssl_qualitative.png" alt="ssl_qualitative" > <br /> The qualitative result of the SSL model. </p>
 
-<p align="center"> <img src="https://github.com/reshalfahsi/anchor-free-object-detection/blob/master/assets/fine-tuned_qualitative.png" alt="fine-tuned_qualitative" > <br /> he qualitative result of the fine-tuned pre-trained SSL model. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/contrastive-ssl-pathology/blob/master/assets/fine-tuned_qualitative.png" alt="fine-tuned_qualitative" > <br /> The qualitative result of the fine-tuned pre-trained SSL model. </p>
 
 
 ## Credit

@@ -22,11 +22,11 @@ Click [here](https://github.com/reshalfahsi/contrastive-ssl-pathology/blob/maste
 
 The table below presents the quantitative result of the models on the test set.
 
-Model | Loss | Accuracy
------------- | ------------- |
-Baseline |  0.367 | 91.89%
-SSL | 0.480 | 86.32%
-Fine-tuned | 0.438 | 91.05%
+Model | Loss | Accuracy |
+------------ | ------------- | ------------- |
+Baseline |  0.367 | 91.89% |
+SSL | 0.480 | 86.32% |
+Fine-tuned | 0.438 | 91.05% |
 
 
 ## Validation Accuracy and Loss Curve
